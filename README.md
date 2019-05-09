@@ -1,0 +1,2 @@
+# population_sample_sampling_distributions
+Comparison of population,sample and sampling_distributions
