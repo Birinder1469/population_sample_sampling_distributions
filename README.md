@@ -1,2 +1,3 @@
-# population_sample_sampling_distributions
-Comparison of population,sample and sampling_distributions
+# Population, Sample, Sampling Distributions
+
+This project makes a comparison between the Population, Sample and Sampling distributions.
